@@ -1,4 +1,4 @@
 FROM analogic/symserver
-MAINTAINER info@analogic.cz
+LABEL maintainer="info@analogic.cz"
 
 ADD rootfs /
